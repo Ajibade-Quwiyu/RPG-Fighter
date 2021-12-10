@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 1
-  controlID: 9647
+  controlID: 212
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 9648
+  controlID: 213
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 231, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 9688
+  controlID: 214
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 9738
+  controlID: 307
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -447,9 +447,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: aedfffff
-      m_LastClickedID: -8274
-      m_ExpandedIDs: b8bdffffbeebfffffcecffff02edffff0eedffff14edffff52fbffffa65d0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -511,22 +511,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Game/Pickups
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Game/Pickups
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\hp\Documents\GitHub\RPG-Game\RPG-Game
+  m_LastProjectPath: C:\Users\hp\Documents\GitHub\RPG-Fighter\RPG-Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6c5d0000
-    m_LastClickedID: 23916
-    m_ExpandedIDs: ffffffff0000000076460000784600007a4600007e4600008046000088460000d6690000d869000000ca9a3b
+    m_SelectedIDs: b2450000
+    m_LastClickedID: 17842
+    m_ExpandedIDs: 00000000b2450000b4450000b6450000b8450000ba450000bc450000be45000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -554,7 +554,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 8e5d0000
     m_LastClickedID: 23950
-    m_ExpandedIDs: ffffffff0000000076460000784600007a4600007e46000080460000d6690000d869000000ca9a3b
+    m_ExpandedIDs: 00000000b2450000b4450000b6450000b8450000ba450000bc450000be45000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
